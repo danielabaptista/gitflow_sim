@@ -1,1 +1,3 @@
 añadiendo mi primera funcionalidad
+listo para el primer release
+Release 0.1.0
